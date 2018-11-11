@@ -4,12 +4,12 @@
 1.Deberes probar VirtualBox y Gandalf.
 
 2.Sistemas de particiones
-      Reglas de partición en Windows
+     2.1 Reglas de partición en Windows
 
 3.Formas de arrancar
-      USB/DVD
-       DD
-       PXE
+      3.1 USB/DVD
+      3.2 DD
+      3.3 PXE
 
 4.Configuración BIOS
       Boot Menu
