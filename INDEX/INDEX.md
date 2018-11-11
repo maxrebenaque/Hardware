@@ -12,10 +12,10 @@
       3.3 PXE
 
 4.Configuración BIOS
-      Boot Menu
-      Boot Sequence
-      Lan Boot
-      IDE-AHCI
+      4.1 Boot Menu
+      4.2 Boot Sequence
+      4.3 Lan Boot
+      4.4 IDE-AHCI
 
 5.Instalación Fedora 27
 
@@ -29,26 +29,26 @@
 
 10.Placa Base
       10.1.Chipset
-          North Bridge
-          South Bridge
+      10.2 North Bridge
+      10.3 South Bridge
 
 11.Discos Duros
-      M.2
-      SATA
-      SSD
-      HDD
+      11.1 M.2
+      11.2 SATA
+      11.3 SSD
+      11.4 HDD
       
 12.RAM, Dual channel y Lanes
 
 13.Conversiones de bits a Bytes
-      Tamaño
-      Velocidad
+      13.1 Tamaño
+      13.2 Velocidad
 
 14.Pantallas
-      Tasa de refresco (Hz)
-      Resolución
-      Bits de color
-      Pulgadas
+      14.1 Tasa de refresco (Hz)
+      14.2 Resolución
+      14.3 Bits de color
+      14.4 Pulgadas
       
 15.Deberes calcular memoria RAM consumida por pantalla
 
@@ -57,9 +57,9 @@
 17.Fuente de alimentación, caja y refrigeración
 
 18.Git
-     GitHub
-     GitLab
-     Que es MarkDown
+     18.1 GitHub
+     18.2 GitLab
+     18.3 Que es MarkDown
 
 19.Deberes crear cuenta en Gitlab y Github y ponerlo en Markdown
 
@@ -68,30 +68,30 @@
 21.Práctica: uso del tester y diagnóstico de PC
 
 22.Que contiene el MBR
-     Tabla de particiones
-     Boot Manager
-     Firma
+     22.1 Tabla de particiones
+     22.2 Boot Manager
+     22.3 Firma
 
 23.Borrar y crear particiones en Fdisk
 
 24.Clusters y Sectores
 
 25.Formato de un Pen/DD
-     FAT32
+     25.1 FAT32
 
 26.Arquitectura 32 bits y 64 bits
-     En sistemas operativos
-     En CPU
+     26.1 En sistemas operativos
+     26.2 En CPU
 
 27.Repaso particiones
 
 28.Sistema Operativo Linux
-     Kernel
-     Run level
-     XII/Wayland
-     Window Manager
-     Display Manager (GDM y Lightdm)
-     Escritorio
+     28.1 Kernel
+     28.2 Run level
+     28.3 XII/Wayland
+     28.4 Window Manager
+     28.5 Display Manager (GDM y Lightdm)
+     28.6 Escritorio
 
  29.CLI, GUI i TUI
 
@@ -102,5 +102,5 @@
 32.Comando Watch, ionice, Ctrl+Z, bg, parametro & y significado ~
 
 33.Práctica fdisk desde archivo
-     MBR
-     GPT
+     33.1 MBR
+     33.2 GPT
