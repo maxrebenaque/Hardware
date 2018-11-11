@@ -1,5 +1,6 @@
 
 ÍNDICE
+
 1.Deberes probar VirtualBox y Gandalf.
 
 2.Sistemas de particiones
