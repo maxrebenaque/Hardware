@@ -1,0 +1,17 @@
+
+ESTE SISTEMA DE PARTICIONES TIENE ALGUNAS REGLAS : 
+
+    -Solo pueden haber 4 particiones primarias
+    -1 de esas puede ser extended
+    -Dentro de la extended pueden haber n logicas. 
+    -1 primaria tiene que ser activa
+    - ( una extended no puede ser nunca activa )
+    
+-Windows necesita una partición primaria activa para poder arrancar
+
+-Linux no necesita nada en especial para poder arrancar con normalidad
+
+
+-TAMAÑOS:
+    -El viejo bios mbr dos solo soporta 2tb de maximo por partición
+    -El nuevo UEFI GPT llega a 18 exabytes de tamaño maximo de partición
